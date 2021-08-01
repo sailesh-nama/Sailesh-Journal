@@ -1,0 +1,11 @@
+db.products.insert(
+_1d: 2,
+name: "pencil",
+price: 2.50,
+stock: 32,
+reviews: [
+{
+
+}
+]
+)
